@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on testing API using python 
+- 🔭 I’m currently working on testing API using python  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default)
 - 🌱 I’m currently learning docker, kubernetes, flutter, python, ....
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) 
 
