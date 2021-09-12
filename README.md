@@ -4,12 +4,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on testing API using python  !
 - 🌱 I’m currently learning docker, kubernetes, flutter, python, ....
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with any idea
+- 💬 Ask me about how I work and I'll be happy to tell you
 - 📫 How to reach me: sowousmane4811@gmail.com
 - 😄 Pronouns: Ousmane
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm learning so I can't really help well but I can try
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
