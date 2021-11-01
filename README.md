@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with any idea
 - 💬 Ask me about how I work and I'll be happy to tell you
 - 📫 How to reach me: sowousmane4811@gmail.com
-- 😄 Pronouns: Ousmane
-- ⚡ Fun fact: I'm learning so I can't really help well but I can try
+- ⚡ Fun fact: I'm learning so I can't really help well but don't be afraid to ask 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
