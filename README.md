@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about how I work and I'll be happy to tell you
 - 📫 How to reach me: sowousmane4811@gmail.com
 - ⚡ Fun fact: I'm learning so I can't really help well but don't be afraid to ask 
+- 😊 Here is my site under construction but perhaps useful  <a href="https://debrouillonsnous.github.io/">ici</a>  
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
