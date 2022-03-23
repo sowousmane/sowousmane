@@ -2,14 +2,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on testing API using python  !
-- 🌱 I’m currently learning docker, CI/CD, flutter, python, ....
+- 🔭 I’m currently working on testing APIs using python and CI/CD(for automation)  !
+- 🌱 I’m currently learning Docker, CI/CD, flutter, python, ....
 - 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help in other to become a good developer
+- 🤔 I'm looking for help to become a good developer
 - 💬 Ask me about how I work and I'll be happy to tell you
 - 📫 How to reach me: sowousmane4811@gmail.com
-- ⚡ Fun fact: I'm learning so I can't really help well but don't be afraid to ask 
-- 😊 Here is my site under construction but perhaps useful  <a href="https://soowcode.github.io/">ici</a>  
+- ⚡ Fun fact: I'm still learning, so I can't really help, but don't be afraid to ask. 
+- 😊 Here's my site under construction but perhaps useful <a href="https://soowcode.github.io/">here</a>  
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
