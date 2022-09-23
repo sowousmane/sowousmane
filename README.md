@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some ideas to get you started to know who am I:
 
 - 🔭 I’m currently working as a **DevOps engineer**  using Docker, Kubernetes, Helm, ...
 - 🌱 I was working on testing APIs using python and CI/CD(for automation), Docker, ....
