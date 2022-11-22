@@ -18,8 +18,10 @@ Here are some ideas to get you started to know who am I:
 
 
 
-## Activity Graph 📊
+## GitHub Stats 📈 :
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sowousmane&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sowousmane&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Ousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowousmane&theme=algolia)](https://github.com/sowousmane/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowousmane&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Ousmane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowousmane&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
