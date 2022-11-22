@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://assets2.lottiefiles.com/packages/lf20_sl6vuo6t.json">
-</p>
+https://imgur.com/E7Zgz1M
 ### Hi there 👋
 
 Here are some ideas to get you started to know who am I:
