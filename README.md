@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
 ### Hi there 👋
 
 Here are some ideas to get you started to know who am I:
@@ -14,12 +18,5 @@ Here are some ideas to get you started to know who am I:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default) [![Ousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowousmane&theme=algolia)](https://github.com/sowousmane/github-readme-stats) 
 
-
-
-## Activity Graph 📊
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sowousmane&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
