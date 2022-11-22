@@ -14,7 +14,7 @@ Here are some ideas to get you started to know who am I:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowousmane&theme=default) [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default)[![Ousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowousmane&theme=algolia)](https://github.com/sowousmane/github-readme-stats) 
 
 
 
