@@ -5,11 +5,10 @@
 
 ### Hi there 👋 I am DevOps engineer
 
-- 🔭 I’m working with using Docker, Kubernetes, Helm, Nodejs, Nuxtjs, Jest, PHP, Symfony,...
+- 🔭 I’m working with Docker, Kubernetes, Helm, Nodejs, Nuxtjs, Jest, PHP, Symfony,...
 - 🌱 I was working as a Full-stack developer and was testing APIs using Python and CI/CD(for automation), Docker, ....
-- 💬 I work on some bulshit so ask me about how I'm doing it and I'll be happy to tell you.
 - ⚡  I can tell you a fun fact: I'm still learning, so I can't really help, but don't be afraid to ask we will find out together
-- 😊 I have a site a site under construction perhaps useful <a href="https://soowcode.github.io/">here</a>  
+- 😊 I have a site under construction perhaps useful ? 👉 <a href="https://soowcode.github.io/">here</a>  
 # 💻 Tech Stack:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
