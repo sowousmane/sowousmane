@@ -3,12 +3,10 @@
 </p>
 <br>
 
-### Hi there 👋
+### Hi there 👋 I am DevOps engineer
 
-Here are some ideas to get you started to know who am I:
-
-- 🔭 I’m currently working as a **DevOps engineer**  using Docker, Kubernetes, Helm, Nodejs, Nuxtjs, Jest, PHP, Symfony,...
-- 🌱 I was working on testing APIs using Python and CI/CD(for automation), Docker, ....
+- 🔭 I’m working with using Docker, Kubernetes, Helm, Nodejs, Nuxtjs, Jest, PHP, Symfony,...
+- 🌱 I was working as a Full-stack developer and was testing APIs using Python and CI/CD(for automation), Docker, ....
 - 💬 I work on some bulshit so ask me about how I'm doing it and I'll be happy to tell you.
 - ⚡  I can tell you a fun fact: I'm still learning, so I can't really help, but don't be afraid to ask we will find out together
 - 😊 I have a site a site under construction perhaps useful <a href="https://soowcode.github.io/">here</a>  
