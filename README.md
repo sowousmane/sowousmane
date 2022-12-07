@@ -53,7 +53,7 @@
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
-
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
 [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default) [![Ousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowousmane&theme=algolia)](https://github.com/sowousmane/github-readme-stats) 
